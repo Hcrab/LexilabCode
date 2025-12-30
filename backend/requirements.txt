@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+pymongo
+Flask-Cors
+gunicorn
+Werkzeug
+PyJWT
+pytz
+openai
